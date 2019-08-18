@@ -11,5 +11,6 @@ Here are some of the sites that offer online training for Kubernetes:
 
 {{% capture body %}}
 
+Nothing to see here yet.
 
 {{% /capture %}}
